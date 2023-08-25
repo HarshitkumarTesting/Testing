@@ -11,6 +11,11 @@ public static void main(String[] args)
 	System.out.println("Kiran");
 	System.out.println("Maddy");
 	System.out.println("Harry");
+
+	public void m1()
+		{
+		system.out.println("Git Hub");
+	}
 }
 
 }
